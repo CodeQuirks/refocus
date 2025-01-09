@@ -20,5 +20,4 @@ Marquee.propTypes = {
     imagesurls: PropTypes.arrayOf(PropTypes.string).isRequired,
     direction: PropTypes.string.isRequired,
 };
-
 export default Marquee;
